@@ -5,10 +5,9 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "3f83596aed8ded5388b3a4b55fd2ea26",
 "favicon.ico": "4c6428d7eca191b3e96fc95bf90423e5",
-"index.html": "d3200b5da5aee251391c5b10b0009045",
-"/": "d3200b5da5aee251391c5b10b0009045",
-"main.dart.js": "b00944a9e6fac4fe7e826909dadd9ad3",
-"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
+"index.html": "205ba19336002d7c80bf5eec92eea1d5",
+"/": "205ba19336002d7c80bf5eec92eea1d5",
+"main.dart.js": "cd3371c5749c67dff937c8d22b12c6dd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/icon-192.png": "2351ea581e5bf823f05e823e9c89cb5c",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -37,11 +36,7 @@ const RESOURCES = {
 "assets/assets/images/onboarding/3.png": "91f6fd8547c4bfdd9087844c9c5dfa55",
 "assets/assets/images/onboarding/1.png": "f398ecec5c3421bcdd94b0a748c00e27",
 "assets/assets/images/onboarding/0.png": "3f984a5e56ab39c389a8af5b9bca7d62",
-"assets/assets/lottie/app_loader.json": "6fd0591b1543a460ff69a283ad4427e1",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/lottie/app_loader.json": "6fd0591b1543a460ff69a283ad4427e1"
 };
 
 // The application shell files that are downloaded before a service worker can
